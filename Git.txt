@@ -1,3 +1,4 @@
 GIT Notes
 
 1) git init
+2)
